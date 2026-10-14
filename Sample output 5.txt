@@ -1,0 +1,5 @@
+Numbers: [12, 7, 24, 15, 8, 31, 42, 19, 6, 11]
+Even numbers: [12, 24, 8, 42, 6]
+Odd numbers: [7, 15, 31, 19, 11]
+Largest number: 42
+Smallest number: 6
